@@ -1,0 +1,10 @@
+li{
+	list-style: none;
+}
+.input-todo i, .todo-list i{
+	padding-left: 20px;
+}
+
+.input-todo{
+	margin: 50px 0;
+}
